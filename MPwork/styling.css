@@ -1,0 +1,29 @@
+html {
+        font-family: "Garamond", Garamond, serif;
+        background-color: snow;
+      }
+img {
+                width: 100%;
+            }
+h1 {
+    background-color: cadetblue;
+    border-style: solid;
+    border-color: darkcyan;
+    border-radius: 7px;
+    border-width: 7px;
+}
+h2 {
+    border-style: solid;
+    border-width: 7px;
+    border-color: darksalmon;
+    border-radius: 5px;
+    background-color: darksalmon;
+}
+table, th, td {
+    border: 1px solid cadetblue;
+    border-collapse: collapse;
+    background-color: mintcream;
+}
+th, td {
+    padding: 10px;
+}
